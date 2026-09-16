@@ -1,6 +1,7 @@
 {
   "panel.build": "프로젝트 빌드",
   "panel.console": "콘솔",
+  "panel.terminal": "panel.terminal",
   "panel.environment": "환경",
   "panel.game": "게임",
   "panel.hierarchy": "계층구조",

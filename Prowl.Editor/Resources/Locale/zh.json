@@ -1,6 +1,7 @@
 {
   "panel.build": "构建项目",
   "panel.console": "控制台",
+  "panel.terminal": "panel.terminal",
   "panel.environment": "环境",
   "panel.game": "游戏",
   "panel.hierarchy": "层级",

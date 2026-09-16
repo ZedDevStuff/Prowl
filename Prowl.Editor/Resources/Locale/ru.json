@@ -1,6 +1,7 @@
 {
   "panel.build": "Сборка проекта",
   "panel.console": "Консоль",
+  "panel.terminal": "panel.terminal",
   "panel.environment": "Окружение",
   "panel.game": "Игра",
   "panel.hierarchy": "Иерархия",

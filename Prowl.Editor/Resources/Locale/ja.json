@@ -1,6 +1,7 @@
 {
   "panel.build": "プロジェクトビルド",
   "panel.console": "コンソール",
+  "panel.terminal": "panel.terminal",
   "panel.environment": "環境",
   "panel.game": "ゲーム",
   "panel.hierarchy": "ヒエラルキー",

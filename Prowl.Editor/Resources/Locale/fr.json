@@ -1,6 +1,7 @@
 {
   "panel.build": "Compiler le projet",
   "panel.console": "Console",
+  "panel.terminal": "Terminal",
   "panel.environment": "Environnement",
   "panel.game": "Jeu",
   "panel.hierarchy": "Hierarchie",

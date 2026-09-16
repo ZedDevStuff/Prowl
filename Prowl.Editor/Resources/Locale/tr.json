@@ -1,6 +1,7 @@
 {
   "panel.build": "Proje Derle",
   "panel.console": "Konsol",
+  "panel.terminal": "panel.terminal",
   "panel.environment": "Ortam",
   "panel.game": "Oyun",
   "panel.hierarchy": "Hiyerarsi",
